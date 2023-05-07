@@ -25,7 +25,7 @@ The bot utilizes WindowsAPI functions to capture screenshots and identify pixels
 
 ### Setup
 1. Go to `liteplay.monsterra.io`, login and set browser window resolution to full-screen (F11 key)
-2. [Download](https://github.com/JamieNoonan/monsterra-browser-bot/releases/download/Release/monsterra-browser.rar) repository release and extract files with password `m0nsterra`
+2. [Download](https://github.com/JamieNoonan/monsterra-browser-bot/releases/download/Release/monsterra-browser-bot.rar) repository release and extract files with password `m0nsterra`
 3. Launch bot with correct settings
 
 ### Warning
